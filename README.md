@@ -2,7 +2,7 @@
 
 Our setup provides the essential tools for recording and broadcasting, including 4K camera(s) and microphones. It's designed to help our community create and share multimedia content efficiently.
 
-This setup is designed to be inexpensive and individual components are easily replaceable.
+This setup is designed to be inexpensive and individual components are easily replaceable. The project aims to prove that you don't need expensive professional production and equipment to record conferences and community events.
 
 ## Features
 
