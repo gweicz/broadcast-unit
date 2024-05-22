@@ -4,6 +4,12 @@ Our setup provides the essential tools for recording and broadcasting, including
 
 This setup is designed to be inexpensive and individual components are easily replaceable.
 
+## Features
+
+* 4K 30fps video recording
+* 4K 30fps streaming with Cam Link (needs computer)
+* Audio recording: 2 wireless microphones
+
 ## Setup
 
 | Qty | Item | Description | Approx. price |
