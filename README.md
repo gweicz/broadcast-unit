@@ -1,4 +1,4 @@
-# Gwei.cz Broadcast Setup
+# Gwei.cz Broadcast Unit
 
 Our setup provides the essential tools for recording and broadcasting, including 4K camera(s) and microphones. It's designed to help our community create and share multimedia content efficiently.
 
