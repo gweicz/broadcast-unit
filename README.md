@@ -36,3 +36,7 @@ This setup is designed to be inexpensive and individual components are easily re
 | 1* | <img width="150" alt="Screenshot 2024-06-06 at 6 39 39" src="https://github.com/gweicz/broadcast-unit/assets/67269/335de0c6-e3b3-420f-8db6-5a8a71f6711f"> | 📺 Elgato Cam Link 4K | HDMI Video-capture device (4K) | [specs](https://help.elgato.com/hc/en-us/articles/360027963272-Cam-Link-4K-Technical-Specifications) | 110 EUR |
 
 *\* = scheduled to buy later*
+
+## License
+
+MIT
