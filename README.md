@@ -29,11 +29,11 @@ This setup is designed to be inexpensive and individual components are easily re
 | 1 | <img width="100" alt="RØDE Interview GO" src="https://github.com/gweicz/broadcast-unit/assets/67269/12e4a0bf-ea52-4622-8358-b2d61a64eaf6"> | 🎤 RØDE Interview GO | Handheld adapter for RØDE Wireless GO II Microphone | [specs](https://edge.rode.com/pdf/page/293/modules/4426/interviewgo_datasheet.pdf) | 25 EUR |
 | 2 | <img width="125" alt="Joby Handypod" src="https://github.com/gweicz/broadcast-unit/assets/67269/6b50eaea-06bb-479d-bfa3-4f3f7de0918c"> | 🗜️ Joby Handypod | Mini-tripod & grip | - | 12 EUR |
 | 1 | <img width="100" alt="Rollei Compact Traveler Star S1" src="https://github.com/gweicz/broadcast-unit/assets/67269/244d85b4-a0f3-4be8-8772-66bf801a90f9"> | 🔭 Rollei Compact Traveler Star S1 | Tripod (50", 127cm) | - | 16 EUR |
+| 1 | <img width="150" alt="Screenshot 2024-06-06 at 6 39 39" src="https://github.com/gweicz/broadcast-unit/assets/67269/335de0c6-e3b3-420f-8db6-5a8a71f6711f"> | 📺 Elgato Cam Link 4K | HDMI Video-capture device (4K) | [specs](https://help.elgato.com/hc/en-us/articles/360027963272-Cam-Link-4K-Technical-Specifications) | 110 EUR |
 
 ### Upgrades
 | Qty | Photo | Item | Description | Specs | Approx. price |
 | --- | --- | --- | --- | --- | --- |
-| 1* | <img width="150" alt="Screenshot 2024-06-06 at 6 39 39" src="https://github.com/gweicz/broadcast-unit/assets/67269/335de0c6-e3b3-420f-8db6-5a8a71f6711f"> | 📺 Elgato Cam Link 4K | HDMI Video-capture device (4K) | [specs](https://help.elgato.com/hc/en-us/articles/360027963272-Cam-Link-4K-Technical-Specifications) | 110 EUR |
 
 *\* = scheduled to buy later*
 
