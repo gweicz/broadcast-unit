@@ -11,6 +11,7 @@ This setup is designed to be inexpensive and individual components are easily re
 * Audio recording: 2 wireless mics (with 2 black lavaliers), 1 on-camera mic
 
 ## Missing items
+- Better lens
 - Transport Bag
 
 ## Setup
