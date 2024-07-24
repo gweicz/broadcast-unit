@@ -8,7 +8,7 @@ This setup is designed to be inexpensive and individual components are easily re
 
 * 4K 30fps video recording
 * 4K 30fps streaming with Cam Link (needs computer)
-* Audio recording: 2 wireless mics, 1 on-camera mic
+* Audio recording: 2 wireless mics (with 2 black lavaliers), 1 on-camera mic
 
 ## Missing items
 - Transport Bag
