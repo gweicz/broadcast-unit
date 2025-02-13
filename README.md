@@ -8,7 +8,7 @@ This setup is designed to be inexpensive and individual components are easily re
 
 * 4K 30fps video recording
 * 4K 30fps streaming with Cam Link (needs computer)
-* Audio recording: 2 wireless mics (with 2 black lavaliers), 1 on-camera mic
+* Audio recording: 2+2 wireless mics (with 2 black lavaliers), 1 on-camera mic
 
 ## Missing items
 - Better lens
@@ -29,9 +29,13 @@ This setup is designed to be inexpensive and individual components are easily re
 | 1 | <img width="175" alt="RØDE Wireless GO II" src="https://github.com/gweicz/broadcast-unit/assets/67269/9d6e0e9f-d8a4-4091-99ca-2ea22dd683d4"> | 🎙️ RØDE Wireless GO II | Wireless Microphones (2x TX, 1x RX) | [specs](https://edge.rode.com/pdf/page/88/modules/425/WirelessGOII_Datasheet_2.pdf) | 270 EUR |
 | 2 | <img width="100" alt="RØDE Lavalier GO" src="https://github.com/user-attachments/assets/69e564ba-fbcc-4c71-9db3-519f85671ad5"> | 🎤 RØDE Lavalier GO | Lavalier microphone (3.5mm TRS) | [specs](https://edge.rode.com/pdf/page/1866/modules/4512/lavaliergo_datasheet.pdf) | 50 EUR |
 | 1 | <img width="100" alt="RØDE Interview GO" src="https://github.com/gweicz/broadcast-unit/assets/67269/12e4a0bf-ea52-4622-8358-b2d61a64eaf6"> | 🎤 RØDE Interview GO | Handheld adapter for RØDE Wireless GO II Microphone | [specs](https://edge.rode.com/pdf/page/293/modules/4426/interviewgo_datasheet.pdf) | 25 EUR |
+| 1 | <img width="150" alt="Hollyland LARK M2" src="https://github.com/user-attachments/assets/ed6b27f4-c2fd-4287-97fa-071c0d62d549"> | 🎙️ Hollyland Lark M2 | Wireless Microphones (2x TX, 1x RX) | [specs](https://www.hollyland.com/product/lark-m2) | 120 EUR | 
 | 2 | <img width="125" alt="Joby Handypod" src="https://github.com/gweicz/broadcast-unit/assets/67269/6b50eaea-06bb-479d-bfa3-4f3f7de0918c"> | 🗜️ Joby Handypod | Mini-tripod & grip | - | 12 EUR |
 | 1 | <img width="100" alt="Rollei Compact Traveler Star S1" src="https://github.com/gweicz/broadcast-unit/assets/67269/244d85b4-a0f3-4be8-8772-66bf801a90f9"> | 🔭 Rollei Compact Traveler Star S1 | Tripod (50", 127cm) | - | 16 EUR |
 | 1 | <img width="150" alt="Screenshot 2024-06-06 at 6 39 39" src="https://github.com/gweicz/broadcast-unit/assets/67269/335de0c6-e3b3-420f-8db6-5a8a71f6711f"> | 📺 Elgato Cam Link 4K | HDMI Video-capture device (4K) | [specs](https://help.elgato.com/hc/en-us/articles/360027963272-Cam-Link-4K-Technical-Specifications) | 110 EUR |
+
+![b8d227c2-ad45-4da4-87da-1d656df3c735]()
+
 
 ### Upgrades
 | Qty | Photo | Item | Description | Specs | Approx. price |
